@@ -1,0 +1,75 @@
+.cont-nb {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.huvru {
+  text-align: center;
+}
+
+.contv {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.bloggbild {
+  width: 40vh;
+  height: 40vh;
+  background-image: url("laptopbild.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 8px;
+  position: relative;
+}
+
+.datumv {
+  background-color: rgba(243, 245, 247, 0.692);
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.rubrikv {
+  margin-top: 1%;
+}
+
+.textv {
+  width: 40vh;
+}
+/* ************************************************ */
+
+.conth {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.nyhetsbild {
+  width: 40vh;
+  height: 40vh;
+  background-image: url("naturvagbild.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 8px;
+  position: relative;
+}
+
+.datumv {
+  background-color: rgba(243, 245, 247, 0.692);
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.rubrikv {
+  margin-top: 1%;
+}
+
+.texth {
+  width: 40vh;
+}
