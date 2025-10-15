@@ -1,6 +1,7 @@
 .cont-nb {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .huvru {
