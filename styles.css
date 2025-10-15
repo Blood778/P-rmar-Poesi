@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  margin-top: 3%;
 }
 
 .huvru {
@@ -22,19 +23,19 @@
   display: flex;
   align-items: flex-end;
   border-radius: 8px;
-  position: relative;
 }
 
 .datumv {
-  background-color: rgba(243, 245, 247, 0.692);
-  padding: 6px 10px;
+  background-color: rgba(243, 245, 247, 0.492);
+  padding: 6px;
+  margin-left: 5%;
   border-radius: 6px;
   font-weight: bold;
   font-size: 12px;
 }
 
 .rubrikv {
-  margin-top: 1%;
+  margin-top: 3%;
 }
 
 .textv {
@@ -56,21 +57,26 @@
   display: flex;
   align-items: flex-end;
   border-radius: 8px;
-  position: relative;
 }
 
-.datumv {
-  background-color: rgba(243, 245, 247, 0.692);
-  padding: 6px 10px;
+.datumh {
+  background-color: rgba(243, 245, 247, 0.492);
+  padding: 6px;
+  margin-left: 5%;
   border-radius: 6px;
   font-weight: bold;
   font-size: 12px;
 }
 
-.rubrikv {
-  margin-top: 1%;
+.rubrikh {
+  margin-top: 3%;
 }
 
 .texth {
   width: 40vh;
+}
+
+.länkar {
+  font-weight: bold;
+  color: black;
 }
